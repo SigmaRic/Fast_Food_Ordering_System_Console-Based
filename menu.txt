@@ -1,0 +1,70 @@
+1|Fried Chicken|Original Recipe Chicken|Non-Spicy|RM6.50
+2|Fried Chicken|Hot & Spicy Chicken|Spicy|RM6.50
+3|Fried Chicken|Crispy Chicken Tenders (3 pcs)|Non-Spicy|RM11.00
+4|Fried Chicken|Chicken Nuggets (5 pcs)|Non-Spicy|RM5.00
+5|Fried Chicken|Chicken Nuggets (9 pcs)|Non-Spicy|RM8.50
+6|Fried Chicken|Chicken Drumstick|Non-Spicy|RM4.50
+7|Fried Chicken|Spicy Chicken Wings (4 pcs)|Spicy|RM9.00
+8|Fried Chicken|Honey BBQ Wings (4 pcs)|Non-Spicy|RM9.50
+9|Fried Chicken|Boneless Chicken|Non-Spicy|RM7.00
+10|Fried Chicken|Popcorn Chicken|Non-Spicy|RM6.00
+11|Fried Chicken|Grilled Chicken|Non-Spicy|RM8.00
+12|Fried Chicken|Chicken Chop|Non-Spicy|RM12.50
+13|Fried Chicken|Cheesy Chicken|Non-Spicy|RM8.50
+14|Fried Chicken|Crispy Chicken Skin|Non-Spicy|RM5.50
+15|Burger|Classic Burger|Non-Spicy|RM8.50
+16|Burger|Beef Burger|Non-Spicy|RM14.00
+17|Burger|Filet-O-Fish|Non-Spicy|RM9.00
+18|Burger|Zinger Burger|Spicy|RM12.00
+19|Burger|Zinger Double Down|Spicy|RM17.00
+20|Burger|Cheeseburger|Non-Spicy|RM7.50
+21|Burger|Double Cheeseburger|Non-Spicy|RM12.00
+22|Burger|Chicken Burger|Non-Spicy|RM9.50
+23|Burger|Spicy Chicken Burger|Spicy|RM10.50
+24|Burger|BBQ Beef Burger|Non-Spicy|RM15.00
+25|Burger|Grilled Chicken Burger|Non-Spicy|RM11.00
+26|Burger|Veggie Burger|Non-Spicy|RM8.00
+27|Side|French Fries (Regular)|Regular|RM4.50
+28|Side|French Fries (Large)|Regular|RM6.00
+29|Side|Cheese Fries|Regular|RM7.00
+30|Side|Mashed Potato|Regular|RM4.00
+31|Side|Coleslaw|Regular|RM3.50
+32|Side|Onion Rings|Regular|RM6.50
+33|Side|Corn on the Cob|Regular|RM4.00
+34|Side|Garlic Bread|Regular|RM5.00
+35|Side|Potato Wedges|Regular|RM6.00
+36|Side|Mac & Cheese|Regular|RM7.50
+37|Side|Spring Rolls (3 pcs)|Regular|RM5.50
+38|Side|Nugget Side (3 pcs)|Regular|RM4.00
+39|Dessert|Vanilla Sundae|Cold|RM3.50
+40|Dessert|Chocolate Sundae|Cold|RM4.00
+41|Dessert|Ice Cream Cone|Cold|RM2.50
+42|Dessert|Chocolate Cake|Sweet|RM6.50
+43|Dessert|Apple Pie|Sweet|RM4.50
+44|Dessert|Egg Tart|Sweet|RM3.00
+45|Dessert|Chocolate Chip Cookies|Sweet|RM3.50
+46|Dessert|Brownie|Sweet|RM5.00
+47|Dessert|Banana Split|Cold|RM7.00
+48|Dessert|Cheesecake Slice|Sweet|RM6.00
+49|Beverage|Coca-Cola (Regular)|Cold|RM3.00
+50|Beverage|Coca-Cola (Large)|Cold|RM4.00
+51|Beverage|Pepsi|Cold|RM3.00
+52|Beverage|Sprite|Cold|RM3.00
+53|Beverage|Orange Juice|Cold|RM4.50
+54|Beverage|Iced Lemon Tea|Cold|RM4.00
+55|Beverage|Hot Coffee|Hot|RM5.00
+56|Beverage|Iced Coffee|Cold|RM5.50
+57|Beverage|Hot Tea|Hot|RM3.50
+58|Beverage|Mineral Water|Cold|RM2.00
+59|Beverage|Chocolate Milkshake|Cold|RM7.00
+60|Beverage|Iced Milo|Cold|RM4.50
+61|Beverage|Hot Chocolate|Hot|RM5.00
+62|Beverage|Apple Juice|Cold|RM4.50
+63|Combo|Original Recipe Combo|Set|RM13.50
+64|Combo|Zinger Combo|Set|RM16.00
+65|Combo|Family Feast (Set for 4)|Set|RM49.90
+66|Combo|Snack Box|Set|RM9.90
+67|Combo|Dinner Plate|Set|RM14.50
+68|Combo|Burger Value Combo|Set|RM15.00
+69|Combo|Kids Meal|Set|RM8.90
+70|Combo|Duo Combo (Set for 2)|Set|RM27.90

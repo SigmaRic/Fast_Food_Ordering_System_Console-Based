@@ -1,0 +1,3 @@
+kasing|lim123|Lim Ka Sing|S001|Admin|0123456700
+shande|tan123|Tan Shan De|0123456789|Customer
+mengsheng|abc123|Soh Meng Sheng|0129876543|Customer
